@@ -1,8 +1,18 @@
+# Weslei Nascimento Andrade
 
-Hi, I’m Weslei Nascimento Andrade
+Systems Analysis and Development student at Faculdade Católica de Brasília and learning Python.
 
-Currently I studying Systems Analysis and Development, at the Catholic University of Brasilia (UCB)
+## About me
 
-I’m currently learning Python
+I'm a Systems Analysis and Development student, interested in learning new technologies and applying them in practical projects. I am currently specializing in Python and its libraries.
 
-https://www.linkedin.com/in/weslei-nascimento-andrade
+## Habilidades
+
+* Programming languages: Python.
+* Database: SQLite.
+* Automation: Script in Python.
+
+## Links
+
+* [LinkedIn](https://www.linkedin.com/in/weslei-nascimento-andrade/).
+* [GitHub](https://github.com/wesleiandrade).
