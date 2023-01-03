@@ -10,7 +10,6 @@ I'm a Systems Analysis and Development student, interested in learning new techn
 
 * Programming languages: Python.
 * Database: SQLite.
-* Automation: Script in Python.
 
 ## Links
 
